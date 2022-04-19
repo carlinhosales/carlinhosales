@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou @carlinhosales.
+- 👀 Estou interessado em seguir a carreira de tecnologia.
+- 🌱 Atualmente estou aprendendo lógica de programação.
+- 💞️ Estou participando de uma mentoria, que me ajuda a aperfeiçoar meus conhecimentos.
+- 📫 Meu e-mail para contato é: contato.jcsales@gmail.com.
